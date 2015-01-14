@@ -16,3 +16,47 @@ html {
 *, *::before, *::after {
     box-sizing: inherit;
 }
+
+body {
+    background-color: #e8e7db;
+}
+
+.masthead {
+    text-align: center;
+    background: transparent url("../images/masthead-bg.png") repeat left center;
+}
+
+.star {
+    margin: 0 0 .2em 0 0;
+    width: 1.2em;
+    vertical-align: middle;
+}
+
+.title {
+    display: inline-block;
+    background-color: #e8e7db;
+    text-shadow: 3px 3px 0 #d7d6cc;
+}
+
+.info {
+    background-color: #87714f;
+    color: white;
+    margin-bottom: 1em;
+    position: relative;
+}
+
+.reward {
+    text-align: center;
+}
+
+.graphic {
+    width: 5em;
+    margin-left: 33%;
+    margin-right: 33%;
+    width: 34%;
+}
+
+.border {
+    margin: 0 auto;
+    width: 100%
+}
