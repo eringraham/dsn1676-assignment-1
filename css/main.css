@@ -58,5 +58,7 @@ body {
 
 .border {
     margin: 0 auto;
-    width: 100%
+    width: 100%;
+    border-image: url(../images/border.png) 25 25 25 25 stretch stretch;
+    border-width: 25px 25px 25px 25px;
 }
