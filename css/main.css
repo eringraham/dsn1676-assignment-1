@@ -27,7 +27,7 @@ body {
 }
 
 .star {
-    margin: 0 0 .2em 0 0;
+    margin: 0 .5em 0 .5em;
     width: 1.2em;
     vertical-align: middle;
 }
@@ -42,15 +42,14 @@ body {
     background-color: #87714f;
     color: white;
     margin-bottom: 1em;
-    position: relative;
 }
 
 .reward {
     text-align: center;
+    line-height: inherit;
 }
 
 .graphic {
-    width: 5em;
     margin-left: 33%;
     margin-right: 33%;
     width: 34%;
